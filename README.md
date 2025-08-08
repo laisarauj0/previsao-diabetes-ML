@@ -35,7 +35,6 @@ Modelos treinados, otimizados e validados:
 - ** Decision Tree**
 - ** Random Forest**
 - ** KNN**
-- ** AdaBoost**
 - ** Voting Classifier (Hard/Soft)**
 - ** Stacking Classifier**
 
